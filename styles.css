@@ -1,6 +1,159 @@
 .grid{
     display: grid;
-    grid-column:column;
-    grid-template-columns: repeat (4,1fr) ;
-    grid-template-rows: repeat(4, 1fr);
+    grid-template-columns: repeat(4,1fr) ;
+    grid-template-rows: 4, 1fr;
+    border: 10px;
+    background-color: black;
 }
+.contenedor1{
+
+    height: 100px;
+    background-color: black;
+    padding: 20px;
+    grid-column: 3/3;
+    grid-row: 3/3;
+
+
+
+}
+.contenedor2{
+
+    height: 100px;
+    background-color: rgb(136, 56, 56);
+    padding: 20px;
+
+
+
+}
+.contenedor3{
+
+    height: 100px;
+    background-color: rgb(224, 204, 204);
+    padding: 20px;
+
+
+
+}
+.contenedor4{
+
+    height: 100px;
+    background-color: rgb(17, 157, 71);
+    padding: 20px;
+
+
+
+}
+.contenedor5{
+
+    height: 100px;
+    background-color: rgb(105, 20, 175);
+    padding: 20px;
+
+
+
+}
+.contenedor6{
+
+    height: 100px;
+    background-color: rgb(26, 98, 185);
+    padding: 20px;
+
+
+
+}
+.contenedor7{
+
+    height: 100px;
+    background-color: rgb(143, 177, 21);
+    padding: 20px;
+
+
+
+}
+.contenedor8{
+
+    height: 100px;
+    background-color: rgb(207, 7, 7);
+    padding: 20px;
+
+
+
+}
+.contenedor9{
+
+    height: 100px;
+    background-color: rgb(143, 177, 21);
+    padding: 20px;
+
+
+
+}
+.contenedor10{
+
+    height: 100px;
+    background-color: rgb(149, 118, 8);
+    padding: 20px;
+
+
+
+}
+.contenedor11{
+
+    height: 100px;
+    background-color: rgb(154, 145, 113);
+    padding: 20px;
+
+
+
+}
+
+.contenedor12{
+
+    height: 100px;
+    background-color: rgb(93, 129, 146);
+    padding: 20px;
+
+
+
+}
+
+.contenedor13{
+
+    height: 100px;
+    background-color: rgb(96, 27, 101);
+    padding: 20px;
+
+
+
+}
+
+.contenedor14{
+
+    height: 100px;
+    background-color: rgb(123, 185, 189);
+    padding: 20px;
+
+
+
+}
+.contenedor15{
+
+    height: 100px;
+    background-color: rgb(81, 205, 28);
+    padding: 20px;
+
+
+
+}
+.contenedor16{
+
+    height: 100px;
+    background-color: rgb(93, 40, 40);
+    padding: 20px;
+
+
+
+}
+
+
+
